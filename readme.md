@@ -1,4 +1,6 @@
 # capture-tweet
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/capture-tweet.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/akameco/capture-tweet.svg?branch=master)](https://travis-ci.org/akameco/capture-tweet)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
